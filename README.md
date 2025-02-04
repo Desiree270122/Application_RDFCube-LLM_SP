@@ -31,15 +31,20 @@ Pour cloner et utiliser cette application, vous devez avoir une clé API OpenAI 
 
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 Étapes d'installation
-Cloner le dépôt du projet :
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+1- Cloner le dépôt du projet :
 
 git clone https://github.com/Desiree270122/Application_RDFCube-LLM_SP.git
 cd Application_RDFCube-LLM_SP
-Créer un environnement virtuel et l'activer :
+
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+2-Créer un environnement virtuel et l'activer :
 
 python -m venv .venv
 source .venv/bin/activate
-Créez un fichier .env et ajoutez-y votre clé API OpenAI
+
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+3-Créez un fichier .env et ajoutez-y votre clé API OpenAI
 
 OPEN_API_KEY=votre_cle_api
 Lancer l'application dans Visual Studio Code : Ouvrez le projet dans VSCode
@@ -48,9 +53,9 @@ OPEN_API_KEY=votre_cle_api
 
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 Auteurs
-*Marthe Désirée Olivia HABACK
-*Dieudonné BYAOMBE MWINDULWA, 
-*Priscile EBWALLA EBWALETTE, 
-*David Lutala Lushuli,
+Marthe Désirée Olivia HABACK
+Dieudonné BYAOMBE MWINDULWA, 
+Priscile EBWALLA EBWALETTE, 
+David Lutala Lushuli,
 
 Encadré par : Dr. Tuong Nguyen
